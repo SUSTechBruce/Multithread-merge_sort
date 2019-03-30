@@ -41,7 +41,8 @@
 ![image](https://github.com/SUSTechBruce/Multithread-merge_sort/blob/master/result2.png)
 
 - compare the performance difference between single thread and multiple threads.
-  Accodring to the results of single and mutithread algorithms, 
+  Accodring to the results of single and mutithread algorithms.
+  
 Name                |Role
 ------------------|--------
 Bin Liu            |Leader
