@@ -1,6 +1,6 @@
 # report of Multithread_merge_sort
 
-## implementation ideas
+## 1.implementation ideas
 
 - In this lab, I used OpenMP to implement Multithread merge sort, because OpenMP will help me parallelly execute the specific 
  code automatically, it is easy to use and understand, so, here are the concrete methods :
@@ -28,3 +28,9 @@
         }
     }
 </code></pre>
+
+## 2. use tables or figures to illustrate your experiment results.
+ In the lab, I use a small data to test the performance
+ `
+ `
+- For the results of 
