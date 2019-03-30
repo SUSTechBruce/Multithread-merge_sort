@@ -42,4 +42,7 @@
 
 - compare the performance difference between single thread and multiple threads.
   Accodring to the results of single and mutithread algorithms, 
-
+Thread                |Average time
+------------------|--------
+single thread           |35s
+Linjun CAO         |8s
