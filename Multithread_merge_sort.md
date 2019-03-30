@@ -42,7 +42,14 @@
 
 - compare the performance difference between single thread and multiple threads.
   Accodring to the results of single and mutithread algorithms, 
-Thread                |Average time
+Name                |Role
 ------------------|--------
-single thread           |35s
-Linjun CAO         |8s
+Bin Liu            |Leader
+Linjun CAO         |Developer
+Zhongwei Wan       |Developer
+Jiyuan Pei         |Designer
+Xinwei Chen        |Tester
+Liubin             |Developer & Documentation
+
+
+
