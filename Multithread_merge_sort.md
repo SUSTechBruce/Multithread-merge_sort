@@ -35,4 +35,4 @@
  {32,12,56,78,76,45,36,66,44,24,47,11,23,56,89,2,6,1,19,20,10,9,8,7,6,5,4,3,2,1};
  `
 - For the results of single thread algorithm(without OpenMP)
-
+![image](https://github.com/sustech-se2019/coverage-lab-SUSTechBruce/blob/master/screen_shot4.png)
