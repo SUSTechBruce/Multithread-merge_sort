@@ -45,8 +45,8 @@
   
 Thread               |Average time
 ------------------|--------
-single thread      |36ms
-multithread         |8s
+single thread      |36 μs
+multithread         |8 μs
 
 -  analyze the relationship between the number of threads and overall performance.
  The multithread code resembles single threads code except openMP methods.
