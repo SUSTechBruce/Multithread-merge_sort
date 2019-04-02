@@ -49,8 +49,10 @@ single thread      |36 μs
 multithread         |8 μs
 
 -  analyze the relationship between the number of threads and overall performance.
- The multithread code resembles single threads code except openMP methods.
  
+ `The multithread code resembles single threads code except openMP methods.`
+
 - analyze the margin gain2 while every new thread adding into the program.
-  For the openMP, Because the timing of thread startup and completion is uncertain, it is not possible to know in advance which thread an iteration is assigned to.
+
+ ` For the openMP, Because the timing of thread startup and completion is uncertain, it is not possible to know in advance which thread an iteration is assigned to.`
 
